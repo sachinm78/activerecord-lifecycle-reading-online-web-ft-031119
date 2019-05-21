@@ -28,6 +28,5 @@ ActiveRecord::Schema.define(version: 20160113011820) do
     t.boolean  "post_status"
     t.integer  "author_id"
   end
-  
 
 end
