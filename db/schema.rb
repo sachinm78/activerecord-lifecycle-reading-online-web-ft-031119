@@ -27,6 +27,7 @@ ActiveRecord::Schema.define(version: 20160113011820) do
     t.datetime "updated_at",  null: false
     t.boolean  "post_status"
     t.integer  "author_id"
+  end
   
 
 end
